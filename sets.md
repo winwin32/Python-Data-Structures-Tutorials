@@ -46,6 +46,10 @@ To find 3, the program has to traverse the entire list. That makes this O(n). n 
 
 Big O notation is an abstract representation of how many resources a program could potentially require. This is especially useful in large programs. 
 
+![alt text](o-complexity.png "Big O Notation")
+
+https://www.digitalocean.com/community/tutorials/js-big-o-notation
+
 ## Comparing Sets and Lists
 Sets are a lot like lists, but have two differences. They don't allow duplicate values, and they don't keep their data in a fixed order. 
 If you tried to add 1 and then 1 again to a set, it wouldn't register the second value. 
