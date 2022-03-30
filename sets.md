@@ -48,7 +48,7 @@ Big O notation is an abstract representation of how many resources a program cou
 
 ![alt text](o-complexity.png "Big O Notation")
 
-https://www.digitalocean.com/community/tutorials/js-big-o-notation
+Image source: https://www.digitalocean.com/community/tutorials/js-big-o-notation
 
 ## Comparing Sets and Lists
 Sets are a lot like lists, but have two differences. They don't allow duplicate values, and they don't keep their data in a fixed order. 
