@@ -94,6 +94,12 @@ Notice how it didn't add another 1 to the set, because we already had one when i
 Also, even though I added the variables in the order 2, 3, 1 it displayed them in the order 1, 2, 3. 
 
 Because of this, we need the exact value of what we're looking for in a set, not just an index like a list. 
+
+|Method|Speed|
+|-|-|
+| my_set.add(x) | O(1)
+| my_set.remove(x) | O(1)
+
 ## Problem to Solve
 We can remove a specfic item from a list with the following syntax: 
 
