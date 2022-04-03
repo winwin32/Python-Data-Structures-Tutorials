@@ -5,11 +5,11 @@
 
 * [Trees][3]
 
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[1]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/queues.md
 
-[2]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[2]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/sets.md
 
-[3]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[3]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/tree.md
 
 ## Introduction
 Imagine a line at DisneyLand. Each person enters the line at the back, and leaves when it’s their turn to get on the ride everyone is waiting for. Cutting in the line is not allowed. 
@@ -64,6 +64,15 @@ Output:
 2
 3
 ```
+
+Here is all the methods you can use to implement a queue and their speeds according to Big O notation.
+
+|Method|Speed|
+|-|-|
+| my_queue.pop() | O(1)
+| my_queue.pop(#) | O(n)
+| my_queue.append() | O(1)
+
 ## Problem to Solve
 In this problem, we have an empty queue and some loose variables. 
 Starting with the following code, use the correct combination of "append" and "pop" to display the information in the right order. 
