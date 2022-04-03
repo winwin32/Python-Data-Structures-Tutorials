@@ -5,11 +5,11 @@
 
 * [Trees][3]
 
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[1]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/queues.md
 
-[2]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[2]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/sets.md
 
-[3]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[3]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/tree.md
 
 # Sets
 ## Introduction 
