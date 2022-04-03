@@ -1,3 +1,16 @@
+### Navigation
+* [Queues][1]
+
+* [Sets][2]
+
+* [Trees][3]
+
+[1]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/queues.md
+
+[2]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/sets.md
+
+[3]: https://github.com/winwin32/Python-Data-Structures-Tutorials/blob/main/tree.md
+
 ## Introduction
 
 Trees are unlike any of the other data structures we’ve covered. Most other data structures are linear, and the program goes up and down them looking for data. With a tree, the program can go down many branching paths. This complicates things in execution, but lets us do some impressive things to reduce the amount of processing power our programs need to run. 
