@@ -1,3 +1,16 @@
+### Navigation
+* [Queues][1]
+
+* [Sets][2]
+
+* [Trees][3]
+
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
+[2]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
+[3]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
 ## Introduction
 Imagine a line at DisneyLand. Each person enters the line at the back, and leaves when it’s their turn to get on the ride everyone is waiting for. Cutting in the line is not allowed. 
 
