@@ -1,3 +1,16 @@
+### Navigation
+* [Queues][1]
+
+* [Sets][2]
+
+* [Trees][3]
+
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
+[2]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
+[3]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+
 # Sets
 ## Introduction 
 Sets are a slightly limited but much faster form of data structure.
